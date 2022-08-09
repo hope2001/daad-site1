@@ -1,0 +1,20 @@
+
+text-lav{
+    color: var(--lavande)!important;
+  }
+  text-lavcl{
+    color: var(--lavandecl)!important;
+  }
+  
+  btn-lav{
+    background-color: var(--lavande)!important;
+    color: white!important;
+  }
+  
+  bg-lav{
+    background-color: var(--lavande)!important;
+  }
+  bg-lavcl{
+    background-color: var(--lavandecl)!important;
+  }
+  
